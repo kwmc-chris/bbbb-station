@@ -27,7 +27,9 @@ Keep `station.env` on the Mac, outside the GitHub repo.
 
 ## Setting up a Pi
 
-**1. Image the card** with Raspberry Pi Imager: Raspberry Pi OS Lite (64-bit). In the OS customisation settings, set:
+**1. Image the card** with Raspberry Pi Imager: 
+Raspberry Pi OS (Legacy, 64-bit) Lite. [Bookworm]
+In the OS customisation settings, set:
 - hostname (unique, e.g. `birdnet-kwmc-XX`)
 - username `pi` and a password
 - KWMC Visitor Wi-Fi
